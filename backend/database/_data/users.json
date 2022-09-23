@@ -1,12 +1,12 @@
 [
     {
-        "name" : "Julieth Buitrago",
-        "email" : "bjulieth019@gmail.com",
+        "name" : "Giovanny Montero",
+        "email" : "ergiomon10@gmail.com",
         "password" : 123456
     },
     {
-        "name" : "Giovanny Montero",
-        "email" : "gmontero@gmail.com",
-        "password" : 123456
+        "name" : "Arnold Retavisca",
+        "email" : "ArnoR@gmail.com",
+        "password" : 6789012
     }
 ]
